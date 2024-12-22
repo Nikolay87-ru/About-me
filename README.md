@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 О себе
 ========================
+=======
 
 [![unnamed.jpg](https://i.postimg.cc/vBZzjG3T/unnamed.jpg)](https://postimg.cc/v1CfxwRw)
 
